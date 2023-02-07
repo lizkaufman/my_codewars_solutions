@@ -6,6 +6,8 @@
  */
 
 /*
+https://www.codewars.com/kata/63cbe409959401003e09978b/train/javascript
+
 Write a function that takes in an array of integers from 0-9, and returns a new array:
 
 Numbers with no identical numbers preceding or following it returns a 1: 2, 4, 9  => 1, 1, 1
