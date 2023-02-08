@@ -8,5 +8,6 @@ I know that the Codewars site saves my solutions, but I want to also use this re
 
 ## Wins
 
+- 03.02.23 - Solved a kata with recursion (one of my personal bugbears to get my head around)
 - 08.02.23 - Solved my first 6KYU in TypeScript
 - 08.02.23 - Reached 4KYU level with 801 honor points!
