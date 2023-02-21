@@ -13,3 +13,4 @@ I know that the Codewars site saves my solutions, but I want to also use this re
 - 08.02.23 - Reached 4KYU overall rank with 801 honor points!
 - 09.02.23 - Enough TS honor points to reach 7KYU rank in TypeScript
 - 15.02.23 - Learned [how to tackle using strings as keys of objects in TS](https://stackoverflow.com/questions/57086672/element-implicitly-has-an-any-type-because-expression-of-type-string-cant-b)
+- 21.02.23 - First 7KYU kata solved in Python 🐍 🥳
