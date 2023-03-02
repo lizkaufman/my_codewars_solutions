@@ -16,4 +16,5 @@ Note: I've now added a [folder](TS/Exercism/) for my TypeScript Exercism solutio
 - 09.02.23 - Enough TS honor points to reach 7KYU rank in TypeScript
 - 15.02.23 - Learned [how to tackle using strings as keys of objects in TS](https://stackoverflow.com/questions/57086672/element-implicitly-has-an-any-type-because-expression-of-type-string-cant-b)
 - 21.02.23 - First 7KYU kata solved in Python 🐍 🥳
-- 02.03.23 - Solved first medium-level TS exercise in Exercism, although it took a while (and some pairing!)
+- 02.03.23 - Solved [first medium-level TS exercise in Exercism](TS/Exercism/01.03.23_grade-school.ts), although it took a while (and some pairing!).
+- 02.03.23 - Solved first 5KYU in TS!!
