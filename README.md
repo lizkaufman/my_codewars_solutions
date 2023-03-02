@@ -6,6 +6,8 @@ One of my resolutions for 2023 is to make more time for coding so I can stay sha
 
 I know that the Codewars site saves my solutions, but I want to also use this repo as a place to collect my solutions to katas so that I can more easily track my progress.
 
+Note: I've now added a [folder](TS/Exercism/) for my TypeScript Exercism solutions (medium difficulty and above) as well.
+
 ## Wins
 
 - 03.02.23 - Solved a kata with recursion (one of my personal bugbears to get my head around)
