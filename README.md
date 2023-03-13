@@ -18,3 +18,4 @@ Note: I've now added a [folder](TS/Exercism/) for my TypeScript Exercism solutio
 - 21.02.23 - First 7KYU kata solved in Python 🐍 🥳
 - 02.03.23 - Solved [first medium-level TS exercise in Exercism](TS/Exercism/01.03.23_grade-school.ts), although it took a while (and some pairing!).
 - 02.03.23 - Solved first 5KYU in TS!!
+- 13.03.23 - Ranked up to 6KYU in TypeScript
