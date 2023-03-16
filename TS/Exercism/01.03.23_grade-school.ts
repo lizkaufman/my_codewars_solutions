@@ -34,24 +34,13 @@ export class GradeSchool {
   public add(name: string, grade: number) {
     const existingNames = Object.values(this.students).flat();
     if (existingNames.includes(name)) {
-      const rosterArray = Object.entries(this.students);
-      for (let i: number = 0; i < rosterArray.length; i++) {
-        if (rosterArray[i].flat().includes(name)) {
-          const existingGrade = Number(rosterArray[i][0]);
-          const currentGradeStudents = Array.from(this.students[existingGrade]);
-          const indexToRemove = currentGradeStudents.indexOf(name);
-          const newGradeStudents = [
-            ...currentGradeStudents.slice(0, indexToRemove),
-            ...currentGradeStudents.slice(indexToRemove + 1),
-          ];
-          this.students = {
-            ...this.students,
-            [existingGrade]: newGradeStudents,
-          };
-          break;
+      Object.entries(this.students).forEach(([existingGrade, students]) => {
+        if (students.includes(name)) {
+          const newStudents = students.filter((student) => student !== name);
+          this.students[Number(existingGrade)] = newStudents;
         }
-      }
-      this.add(name, grade);
+      });
+      this.students[grade] = [...(this.students[grade] ?? []), name].sort();
     }
 
     if (Object.keys(this.students).includes(String(grade))) {
