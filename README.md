@@ -19,4 +19,5 @@ Note: I've now added a [folder](TS/Exercism/) for my TypeScript Exercism solutio
 - 02.03.23 - Solved [first medium-level TS exercise in Exercism](TS/Exercism/01.03.23_grade-school.ts), although it took a while (and some pairing!).
 - 02.03.23 - Solved first 5KYU in TS!!
 - 13.03.23 - Ranked up to 6KYU in TypeScript
-- 24.06.23 - Solved first Codewars in ages, and resisted the urge to always use array methods (challenged myself to use regex + string methods instead)
+- 24.06.23 - Solved first Codewars in ages, and resisted the urge to always break a string into an array (challenged myself to use regex + string methods instead)
+- 06.07.23 - Got back into the FCC algorithms and data structures certification and did the telephone number validator (and added a new folder under JS for my solutions)
