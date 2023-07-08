@@ -21,3 +21,4 @@ Note: I've now added a [folder](TS/Exercism/) for my TypeScript Exercism solutio
 - 13.03.23 - Ranked up to 6KYU in TypeScript
 - 24.06.23 - Solved first Codewars in ages, and resisted the urge to always break a string into an array (challenged myself to use regex + string methods instead)
 - 06.07.23 - Got back into the FCC algorithms and data structures certification and did the telephone number validator (and added a new folder under JS for my solutions)
+- 08.07.23 - Finally finished the [FCC algorithms and data structures certification](https://www.freecodecamp.org/certification/liz_kaufman/javascript-algorithms-and-data-structures), only three and a half years after I started it. Better late than never! :P Plus, the last few certification challenges were pretty tricksy, even though I'm not a beginner anymore, so it was good practice thinking algorithmically.
