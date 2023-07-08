@@ -6,7 +6,7 @@ One of my resolutions for 2023 is to make more time for coding so I can stay sha
 
 I know that the Codewars site saves my solutions, but I want to also use this repo as a place to collect my solutions to katas so that I can more easily track my progress.
 
-Note: I've now added a [folder](TS/Exercism/) for my TypeScript Exercism solutions (medium difficulty and above) as well.
+Note: I'm now using this repo as a place to store other coding challenges, not just Codewars. They'll be organised within the language directories and then named directories for which sites/platforms they're on. For example, I have a [TS/Exercism](TS/Exercism/) folder for my TypeScript Exercism solutions (medium difficulty and above).
 
 ## Wins
 
