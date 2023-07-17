@@ -1,4 +1,4 @@
-# Codewars Solutions
+# Codewars Solutions (and other coding challenges)
 
 ![](https://www.codewars.com/users/lizkaufman/badges/large)
 
